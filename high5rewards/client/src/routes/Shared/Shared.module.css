@@ -1,0 +1,18 @@
+#Shared {
+    background-color: #212121;
+    
+    padding-left: 1.25em;
+    padding-right: 1.25em;
+
+    display: flex;
+    
+    border-bottom: 3px solid #616161;
+}
+
+#sharenav{
+    margin-top: 1.5em;
+
+    display: flex;
+    justify-content: flex-end;
+    margin-left: auto;
+}
